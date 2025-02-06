@@ -1,8 +1,10 @@
+package ru.nikishin.springtain.mycrud.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import ru.nikishin.springtain.mycrud.model.User;
 import ru.nikishin.springtain.mycrud.repositry.UserRepository;
+
 
 import java.util.List;
 
