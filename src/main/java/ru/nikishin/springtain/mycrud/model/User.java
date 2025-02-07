@@ -1,6 +1,7 @@
 package ru.nikishin.springtain.mycrud.model;
 
 import jakarta.persistence.*;
+import lombok.Builder;
 import lombok.Data;
 
 @Data

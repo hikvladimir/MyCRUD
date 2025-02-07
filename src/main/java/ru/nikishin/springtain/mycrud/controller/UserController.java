@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import java.util.List;
 
+import static ru.nikishin.springtain.mycrud.service.UserService.*;
+
 @Controller
 public class UserController {
     private final UserService userService;
